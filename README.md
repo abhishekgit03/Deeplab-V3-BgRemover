@@ -46,7 +46,8 @@ This is a Flask application that allows users to upload files and returns the fo
     }
     ```
 2. **Example:**
-![sub-buzz-31148-1548266852-1](https://github.com/abhishekgit03/Deeplab-V3-BgRemover/assets/92089364/3534a8f4-4a63-4b28-b5ab-46575abd0db6)
+   
+<img src="https://github.com/abhishekgit03/Deeplab-V3-BgRemover/assets/92089364/3534a8f4-4a63-4b28-b5ab-46575abd0db6" width="400">
 
-![foreground](https://github.com/abhishekgit03/Deeplab-V3-BgRemover/assets/92089364/70fb0280-c26c-4c66-9692-9410bd221537)
+<img src="https://github.com/abhishekgit03/Deeplab-V3-BgRemover/assets/92089364/70fb0280-c26c-4c66-9692-9410bd221537" width="400">
 
