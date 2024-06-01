@@ -7,7 +7,7 @@ This is a Flask application that allows users to upload files and returns the fo
 1. **Clone the repository:**
 
     ```bash
-   (https://github.com/abhishekgit03/Deeplab-V3-BgRemover)
+   https://github.com/abhishekgit03/Deeplab-V3-BgRemover
     ```
 
 2. **Install dependencies:**
@@ -28,7 +28,7 @@ This is a Flask application that allows users to upload files and returns the fo
 
 1. **Uploading a file:**
 
-    Send a POST request to the `/upload` endpoint with the file attached as form data. The server will respond with a JSON object containing the uploaded image as a base64 encoded string.
+    Send a POST request to the `/remove` endpoint with the file attached as form data. The server will process the uploaded image, remove its background, and return the foreground image as a base64 encoded string.
 
     Example using cURL:
     ```bash
